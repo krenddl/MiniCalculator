@@ -1,0 +1,15 @@
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\bin\Debug\SimpleApp.exe.config
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\bin\Debug\SimpleApp.exe
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\obj\Debug\SimpleApp.csproj.AssemblyReference.cache
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\obj\Debug\MainWindow.g.cs
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\obj\Debug\App.g.cs
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\obj\Debug\SimpleApp_MarkupCompile.cache
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\obj\Debug\SimpleApp_MarkupCompile.lref
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\obj\Debug\MainWindow.baml
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\obj\Debug\SimpleApp.g.resources
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\obj\Debug\SimpleApp.Properties.Resources.resources
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\obj\Debug\SimpleApp.csproj.GenerateResource.cache
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\obj\Debug\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\obj\Debug\SimpleApp.exe
+C:\Users\wfgab\source\repos\Веб\First\SimpleApp\obj\Debug\SimpleApp.pdb
